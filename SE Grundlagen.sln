@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taschenrechner", "Taschenrechner\Taschenrechner.csproj", "{BAD3E8CF-A293-4DE0-88F1-EFB5363BCBB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schleifen", "Schleifen\Schleifen.csproj", "{17D2CE84-2C35-405E-954E-E999B11855A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD3E8CF-A293-4DE0-88F1-EFB5363BCBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD3E8CF-A293-4DE0-88F1-EFB5363BCBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD3E8CF-A293-4DE0-88F1-EFB5363BCBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD3E8CF-A293-4DE0-88F1-EFB5363BCBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D2CE84-2C35-405E-954E-E999B11855A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D2CE84-2C35-405E-954E-E999B11855A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D2CE84-2C35-405E-954E-E999B11855A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D2CE84-2C35-405E-954E-E999B11855A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {521C4EA6-973B-45F1-AC17-BFE1AC6F72BE}
+	EndGlobalSection
+EndGlobal
